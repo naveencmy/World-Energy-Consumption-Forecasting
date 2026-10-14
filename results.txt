@@ -1,0 +1,4 @@
+Model Evaluation Summary:
+- MAE: 2.26
+- RMSE: 2.99
+- R-Square: -0.0394
